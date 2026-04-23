@@ -32,8 +32,8 @@ Aplicación desarrollada en **C# con .NET** para la administración de una clín
 ### 1️⃣ Clonar el repositorio
 
 ```bash id="a1r9xf"
-git clone https://github.com/isairey/tu-repo.git
-cd tu-repo
+git clone https://github.com/isairey/SisClinicaVet.git
+cd SisClinicaVet
 ```
 
 ---
